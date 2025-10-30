@@ -29,17 +29,17 @@ graph TD
     C1b1 --> C1b4[Obecní / Městský úřad / Magistrát]
     
     %% Propojení přenesené působnosti
-    B2 -.-> C1a4[Krajský úřad]
-    B2 -.-> C1b4[Obecní / Městský úřad / Magistrát]
+    B2 -.-> C1a4
+    B2 -.-> C1b4
 
     %% Styling
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bdf,stroke:#333
     style C fill:#bdf,stroke:#333
-    style B1 fill:#aliceblue
-    style B2 fill:#aliceblue
-    style C1 fill:#lightyellow
-    style C2 fill:#lightyellow
+    style B1 fill:aliceblue
+    style B2 fill:aliceblue
+    style C1 fill:lightyellow
+    style C2 fill:lightyellow
     style C1a fill:#fef
     style C1b fill:#fef
 ```
