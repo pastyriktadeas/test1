@@ -5,7 +5,7 @@ graph TD
     A --> C[Samospráva]
 
     B --> B1[Přímá státní správa]
-    B --> B2[Nepřímá státní správa (Přenesená působnost)]
+    B --> B2[Nepřímá státní správa – Přenesená působnost]
 
     B1 --> B1a[Vláda ČR]
     B1a --> B1b[Ministerstva]
@@ -17,14 +17,14 @@ graph TD
     C --> C2[Zájmová / Profesní samospráva (např. ČAK, ČLK)]
 
     C1 --> C1a[Kraje (VÚSC)]
-    C1a --> C1a1[Zastupitelstvo kraje (volený orgán)]
-    C1a1 --> C1a2[Rada kraje (výkonný orgán)]
+    C1a --> C1a1[Zastupitelstvo kraje – volený orgán]
+    C1a1 --> C1a2[Rada kraje – výkonný orgán]
     C1a2 --> C1a3[Hejtman]
     C1a1 --> C1a4[Krajský úřad]
     
     C1 --> C1b[Obce (ZÚSC)]
-    C1b --> C1b1[Zastupitelstvo obce (volený orgán)]
-    C1b1 --> C1b2[Rada obce (výkonný orgán)]
+    C1b --> C1b1[Zastupitelstvo obce – volený orgán]
+    C1b1 --> C1b2[Rada obce – výkonný orgán]
     C1b2 --> C1b3[Starosta / Primátor]
     C1b1 --> C1b4[Obecní / Městský úřad / Magistrát]
     
